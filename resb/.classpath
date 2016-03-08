@@ -8,5 +8,9 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="/Users/Quentin/Documents/Études/ESIR/S8/RESB/calimero/calimero-core-2.1.jar"/>
+	<classpathentry kind="lib" path="/Users/Quentin/Documents/Études/ESIR/S8/RESB/calimero/calimero-gui-2.1.jar"/>
+	<classpathentry kind="lib" path="/Users/Quentin/Documents/Études/ESIR/S8/RESB/calimero/calimero-rxtx-2.1.jar"/>
+	<classpathentry kind="lib" path="/Users/Quentin/Documents/Études/ESIR/S8/RESB/calimero/calimero-tools-2.1.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
